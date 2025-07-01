@@ -5,4 +5,4 @@ main Repository.
 Tom and jerry cloned the main index.html file from github for An AI startup website . they both updated the navigation bar and contact info
 in their respective branches and merged it with the main branch.
 ![index.html img](https://github.com/olly-cloud/ai-startup-website/blob/20d8a0c66c10f7753dfb2c3c48aece2fc11ead7d/index.html.pn)
-![index.html img]()
+![list of branches](https://github.com/olly-cloud/ai-startup-website/blob/9ea422163b63e3eb03ba60ac99bdbce6376f2787/list%20of%20branches.png)
